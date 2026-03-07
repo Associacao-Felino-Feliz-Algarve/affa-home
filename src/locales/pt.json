@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "adopt": "Adotar",
+    "volunteer": "Voluntariado",
+    "donate": "Doar",
+    "about": "A Nossa História",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "description": "Uma organização sem fins lucrativos dedicada ao bem-estar de gatos de rua. Acreditamos que cada vida é preciosa.",
+    "quickLinks": "Links Rápidos",
+    "contact": "Contacto",
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "cookies": "Política de Cookies"
+  },
+  "home": {
+    "hero": {
+      "title": "Todos os gatos de rua merecem um lar acolhedor e um coração cheio.",
+      "description": "Somos uma comunidade de amantes de gatos dedicada a resgatar, reabilitar e encontrar novos lares para gatos de rua na nossa cidade. Junte-se à nossa missão hoje.",
+      "cta": "Adotar um Amigo",
+      "learnMore": "Saber Mais",
+      "badge": "Associação Sem Fins Lucrativos"
+    },
+    "residents": {
+      "title": "Conheça os nossos residentes",
+      "subtitle": "À espera das suas famílias para sempre",
+      "cta": "Ver todos os 24 gatos"
+    },
+    "donate": {
+      "title": "Apoie a nossa missão",
+      "description": "As suas doações fornecem comida, medicamentos e abrigo.",
+      "cta": "Doar para a nossa causa"
+    },
+    "volunteer": {
+      "title": "Seja voluntário",
+      "description": "Dê o seu tempo para ajudar a cuidar dos nossos amigos peludos.",
+      "cta": "Junte-se a nós"
+    },
+    "stats": {
+      "rescued": "Gatos Resgatados",
+      "homes": "Lares Felizes",
+      "volunteers": "Voluntários"
+    },
+    "cta": {
+      "title": "Pronto para fazer a diferença?",
+      "description": "Quer tenha uma hora por semana ou um quarto vago em sua casa, há um lugar para si na nossa comunidade.",
+      "adopt": "Adotar um Gato",
+      "volunteer": "Ser Voluntário Hoje"
+    }
+  },
+  "about": {
+    "title": "A nossa missão é simples: cada gato merece amor.",
+    "description": "A AFFA foi fundada em 2018 por um grupo de vizinhos que notou um número crescente de gatos de rua no parque local. O que começou como um pequeno programa de alimentação transformou-se numa rede de resgate em toda a cidade.",
+    "history": {
+      "title": "Onde tudo começou",
+      "description": "A nossa fundadora, Elena, resgatou o seu primeiro gato de rua, 'Barnaby', de um estaleiro de construção. Ao ver como um pouco de cuidado podia transformar um gato assustado num companheiro amoroso, ela soube que tinha de fazer mais.",
+      "founded": "Fundada",
+      "totalRescues": "Total de Resgates"
+    },
+    "values": {
+      "title": "Os Nossos Valores Fundamentais",
+      "compassion": { "title": "Compaixão", "desc": "Tratamos cada gato com a dignidade e o amor que merecem." },
+      "integrity": { "title": "Integridade", "desc": "Somos transparentes sobre as nossas operações e o uso de fundos." },
+      "community": { "title": "Comunidade", "desc": "Acreditamos no poder das pessoas a trabalhar juntas." },
+      "excellence": { "title": "Excelência", "desc": "Fornecemos o mais alto padrão de cuidados médicos e emocionais." }
+    },
+    "join": {
+      "title": "Junte-se à nossa jornada",
+      "description": "Estamos sempre à procura de novos parceiros, voluntários e lares temporários. Juntos, podemos tornar a nossa cidade um lugar mais seguro para cada gato.",
+      "cta": "Envolver-se"
+    }
+  },
+  "adopt": {
+    "title": "Encontre o seu novo melhor amigo",
+    "description": "Todos os nossos gatos são vacinados, têm microchip e procuram um lar amoroso. Explore os nossos residentes atuais abaixo.",
+    "cat": {
+      "viewProfile": "Ver Perfil",
+      "inquire": "Pedir informações sobre",
+      "description": "é um gato amigável e brincalhão que adora atenção. Procura um lar onde possa ser o centro das atenções."
+    },
+    "process": {
+      "title": "Processo de Adoção",
+      "description": "O nosso processo de adoção inclui uma candidatura, uma visita domiciliária e uma taxa de adoção para cobrir custos médicos. Queremos garantir a melhor combinação para si e para o gato."
+    }
+  },
+  "contact": {
+    "title": "Entre em contacto",
+    "description": "Tem dúvidas sobre adoção, voluntariado ou apenas quer dizer olá? Adoraríamos ouvi-lo.",
+    "form": {
+      "title": "Envie-nos uma mensagem",
+      "name": "Nome Completo",
+      "email": "Endereço de E-mail",
+      "subject": "Assunto",
+      "message": "A Sua Mensagem",
+      "placeholder": {
+        "name": "Maria Silva",
+        "email": "maria@exemplo.com",
+        "message": "Como podemos ajudá-lo?"
+      },
+      "topics": {
+        "select": "Selecione um tópico",
+        "adoption": "Informações sobre Adoção",
+        "volunteer": "Voluntariado",
+        "donation": "Doações",
+        "other": "Questão Geral"
+      },
+      "submit": "Enviar Mensagem",
+      "success": "Obrigado pela sua mensagem! Entraremos em contacto em breve."
+    },
+    "info": {
+      "title": "Informações de Contacto",
+      "shelter": "O Nosso Abrigo",
+      "email": "Envie-nos um E-mail",
+      "phone": "Ligue-nos",
+      "hours": "Horário de Visitas",
+      "weekdays": "Seg - Sex",
+      "weekends": "Sáb - Dom"
+    }
+  },
+  "donate": {
+    "title": "O seu apoio salva vidas",
+    "description": "A AFFA depende inteiramente de doações para fornecer cuidados médicos, comida e abrigo para gatos de rua.",
+    "tiers": {
+      "meal": { "title": "Criador de Refeições", "desc": "Fornece uma semana de comida nutritiva para um gato." },
+      "health": { "title": "Herói da Saúde", "desc": "Cobre vacinas essenciais e um check-up de saúde." },
+      "life": { "title": "Salvador de Vidas", "desc": "Financia uma operação de resgate completa e reabilitação inicial." }
+    },
+    "monthly": {
+      "title": "Doação Mensal",
+      "description": "Junte-se ao nosso programa 'Parceiros Purrfect'. As doações mensais fornecem o financiamento estável que precisamos para planear resgates a longo prazo.",
+      "updates": "Atualizações Exclusivas",
+      "updatesDesc": "Receba histórias mensais dos gatos que está a ajudar.",
+      "cta": "Torne-se um Parceiro"
+    },
+    "other": {
+      "title": "Outras formas de ajudar",
+      "wishlist": { "title": "Lista de Desejos Amazon", "desc": "Compre comida, areia e brinquedos diretamente para o nosso abrigo." },
+      "corporate": { "title": "Matching Corporativo", "desc": "Verifique se o seu empregador duplica doações de caridade." }
+    }
+  },
+  "volunteer": {
+    "title": "Junte-se à nossa comunidade",
+    "description": "Os voluntários são o coração da AFFA. Quer possa dispensar algumas horas por semana ou queira ser família de acolhimento, precisamos da sua ajuda.",
+    "shelter": {
+      "title": "Cuidados no Abrigo",
+      "description": "Ajude-nos com tarefas diárias no nosso abrigo principal. Isto inclui alimentação, limpeza e, o mais importante, socialização com os gatos.",
+      "shifts": "Turnos flexíveis (2-4 horas)",
+      "team": "Trabalhe com outros amantes de gatos",
+      "cta": "Candidatar-se para o Abrigo"
+    },
+    "foster": {
+      "title": "Família de Acolhimento",
+      "description": "Forneça um lar temporário para gatos que precisam de um espaço tranquilo para recuperar ou gatinhos que precisam de cuidados extra antes da adoção.",
+      "options": "Opções de curto ou longo prazo",
+      "supplies": "Todos os mantimentos fornecidos por nós",
+      "cta": "Candidatar-se para Acolhimento"
+    },
+    "why": {
+      "title": "Porquê ser voluntário connosco?",
+      "impact": { "title": "Faça um Impacto", "desc": "Melhore diretamente a vida dos gatos de rua na sua comunidade." },
+      "skills": { "title": "Aprenda Novas Competências", "desc": "Ganhe experiência em cuidados animais e operações sem fins lucrativos." },
+      "people": { "title": "Conheça Pessoas", "desc": "Junte-se a uma rede de apoio de amantes de animais com ideias semelhantes." }
+    }
+  },
+  "policies": {
+    "lastUpdated": "Última Atualização",
+    "cookie": {
+      "title": "Política de Cookies",
+      "s1": { "title": "1. O Que São Cookies", "p1": "Cookies são pequenos ficheiros de texto que são colocados no seu computador ou dispositivo móvel quando visita um website. São amplamente utilizados para fazer os websites funcionarem de forma mais eficiente e fornecer informações aos proprietários do site." },
+      "s2": { "title": "2. Como Usamos os Cookies", "p1": "Usamos cookies por várias razões:", "l1": "Cookies Essenciais: Necessários para o website funcionar corretamente.", "l2": "Cookies de Analítica: Ajudam-nos a perceber como os visitantes interagem com o nosso website.", "l3": "Cookies de Preferência: Permitem que o website se lembre de escolhas que faz." },
+      "s3": { "title": "3. Tipos de Cookies Que Usamos", "th1": "Tipo", "th2": "Finalidade", "tr1": "Sessão", "td1": "Cookies temporários que expiram quando fecha o seu navegador.", "tr2": "Persistentes", "td2": "Permanecem no seu dispositivo por um período definido ou até que os apague." },
+      "s4": { "title": "4. Gestão de Cookies", "p1": "A maioria dos navegadores permite controlar cookies através das suas definições. Pode optar por bloquear ou apagar cookies, mas isso pode afetar a sua experiência no nosso website." },
+      "s5": { "title": "5. Atualizações a Esta Política", "p1": "Podemos atualizar a nossa Política de Cookies periodicamente. Quaisquer alterações serão publicadas nesta página com uma data de revisão atualizada." }
+    },
+    "privacy": {
+      "title": "Política de Privacidade",
+      "s1": { "title": "1. Introdução", "p1": "A Associação AFFA ('nós', 'nosso') está empenhada em proteger a sua privacidade. Esta Política de Privacidade explica como recolhemos, usamos, divulgamos e salvaguardamos a sua informação quando visita o nosso website." },
+      "s2": { "title": "2. Informação Que Recolhemos", "p1": "Podemos recolher informações pessoais que nos fornece voluntariamente quando:", "l1": "Pede informações sobre adoção de gatos", "l2": "Inscreve-se no nosso programa de voluntariado", "l3": "Faz uma doação", "l4": "Contacta-nos através do nosso formulário de contacto", "p2": "Esta informação pode incluir o seu nome, endereço de e-mail, número de telefone e morada." },
+      "s3": { "title": "3. Como Usamos a Sua Informação", "p1": "Usamos a informação que recolhemos para:", "l1": "Processar as suas candidaturas de adoção", "l2": "Coordenar atividades de voluntariado", "l3": "Processar e agradecer doações", "l4": "Responder às suas questões", "l5": "Enviar-lhe atualizações sobre o nosso abrigo (com o seu consentimento)" },
+      "s4": { "title": "4. Segurança de Dados", "p1": "Implementamos medidas de segurança razoáveis para proteger a segurança da sua informação pessoal. No entanto, esteja ciente de que nenhum método de transmissão pela internet é 100% seguro." },
+      "s5": { "title": "5. Contacte-nos", "p1": "Se tiver alguma dúvida sobre esta Política de Privacidade, por favor contacte-nos em privacy@affa.org." }
+    },
+    "terms": {
+      "title": "Termos de Serviço",
+      "s1": { "title": "1. Aceitação dos Termos", "p1": "Ao aceder ou usar o website AFFA, concorda em ficar vinculado por estes Termos de Serviço e por todas as leis e regulamentos aplicáveis." },
+      "s2": { "title": "2. Licença de Uso", "p1": "É concedida permissão para visualizar temporariamente os materiais no nosso website apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título." },
+      "s3": { "title": "3. Processo de Adoção", "p1": "A submissão de uma candidatura de adoção não garante a adoção. Reservamo-nos o direito de recusar qualquer candidatura de adoção a nosso exclusivo critério para garantir o melhor interesse dos nossos animais." },
+      "s4": { "title": "4. Doações", "p1": "Todas as doações feitas à AFFA não são reembolsáveis e serão usadas para apoiar a nossa missão de resgate e bem-estar felino." },
+      "s5": { "title": "5. Exoneração de Responsabilidade", "p1": "Os materiais no nosso website são fornecidos 'como estão'. A AFFA não oferece garantias, expressas ou implícitas, e por este meio renuncia e nega todas as outras garantias." },
+      "s6": { "title": "6. Lei Aplicável", "p1": "Estes termos e condições são regidos e interpretados de acordo com as leis da jurisdição em que a nossa associação está registada." }
+    }
+  }
+}
